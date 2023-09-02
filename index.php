@@ -7,6 +7,8 @@
 
 <?php include_once "header.php"; ?>
 <html>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 <body>
   <div class="wrapper">
     <section class="form signup">
